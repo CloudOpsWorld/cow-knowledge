@@ -1,3 +1,5 @@
-[
-    "post1.md",
-]
+{
+    "Posts": [
+        "main.md"
+    ]
+}
